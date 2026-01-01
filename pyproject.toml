@@ -6,7 +6,7 @@ build-backend = "hatchling.build"
 name = "simple_webbrowser"
 version = "0.2.2"
 authors = [
-  { name="MF366", email="real_mf366@yahoo.com" },
+  { name="Matthew", email="real_mf366@yahoo.com" },
 ]
 description = "Need something simple? Need a webbrowser? This is simple_webbrowser."
 readme = "README.md"
@@ -18,5 +18,5 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/MF366-Coding/simple_webbrowser"
-"Bug Tracker" = "https://github.com/MF366-Coding/simple_webbrowser/issues"
+"Homepage" = "https://github.com/matty-the-dev/simple_webbrowser"
+"Bug Tracker" = "https://github.com/matty-the-dev/simple_webbrowser/issues"
