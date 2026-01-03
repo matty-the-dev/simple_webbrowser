@@ -18,5 +18,5 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/matty-the-dev/simple_webbrowser"
-"Bug Tracker" = "https://github.com/matty-the-dev/simple_webbrowser/issues"
+"Homepage" = "https://github.com/mf366-dev/simple_webbrowser"
+"Bug Tracker" = "https://github.com/mf366-dev/simple_webbrowser/issues"
